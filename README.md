@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdikhafar-hub&color=brightgreen)
 
 <!--
 **Abdikhafar-hub/Abdikhafar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
