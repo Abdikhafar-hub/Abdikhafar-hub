@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdikhafar-hub&label=Profile%20views&color=0e75b6&style=flat" alt="abdikhafar-hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdikhafar-hub" alt="abdikhafar-hub" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abdikhafari" target="blank"><img src="https://img.shields.io/twitter/follow/abdikhafari?logo=twitter&style=for-the-badge" alt="abdikhafari" /></a> </p>
 
 - 🌱 I’m currently learning **C++, cyberSecurity,C#**
