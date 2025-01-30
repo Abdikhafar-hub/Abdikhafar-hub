@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdikhafari" target="blank"><img src="https://img.shields.io/twitter/follow/abdikhafari?logo=twitter&style=for-the-badge" alt="abdikhafari" /></a> </p>
 
-- 🌱 I’m currently learning **C++, cyberSecurity,C#**
+- 🌱 I’m currently learning **Machine Learning and AI, Penetration Testing**
 
 - 👨‍💻 All of my projects are available at [my-portfolio-abdikhafar.vercel.app](my-portfolio-abdikhafar.vercel.app)
 
