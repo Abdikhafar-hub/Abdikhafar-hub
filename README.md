@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and AI, Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-abdikhafar.vercel.app](my-portfolio-abdikhafar.vercel.app)
+- 👨‍💻 All of my projects are available at [my-portfolio-abdikhafar.vercel.app](https://my-portfolio-abdikhafar.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/abdikhafarhub](https://dev.to/abdikhafarhub)
 
